@@ -1,0 +1,13 @@
+# <type>: <short summary>
+# Types: feat, fix, docs, style, refactor, perf, test, chore
+# Example:
+# feat: add About modal with keyboard shortcut
+
+# Why
+# - Explain the motivation in one or two bullets
+
+# What
+# - Summarize the key changes
+
+# Demo/Notes
+# - Any steps to test or screenshots
